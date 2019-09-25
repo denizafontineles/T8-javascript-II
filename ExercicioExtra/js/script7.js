@@ -23,6 +23,8 @@ formulario.addEventListener("submit", function (evento) { //chama a caixa formul
         // avisoErro.classList.add("aviso");
     
     }else{
+        erro.textContent = "";
+        
         let comentarioDigitar = document.createElement("p"); //criei uma tag para ser feito no html e quando o usuário digitar a aparecer dentro dessa div
     
         comentarioDigitar.textContent = mensagem;

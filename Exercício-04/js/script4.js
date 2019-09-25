@@ -3,6 +3,7 @@ let pinguim = {
     "idade": 5,
     "origem": "Antartida",
 
+    
     pular : function(){ //quando coloca dentro do parâmetro não precisa referenciar a propriedade para ação.
         console.log("pular");
     }

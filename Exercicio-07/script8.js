@@ -16,7 +16,6 @@ for (let propriedade in objeto) {
 }
 
 
-
 //Quando for dá nome a propriedade do objeto se tiver espaço tem que colocar em "". Exemplo: "conta bancaria": 123  OUU  "conta-bancaria":"lala".
 
 
